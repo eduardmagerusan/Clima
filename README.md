@@ -11,7 +11,7 @@ This project is written in Swift 5.0 and requires Xcode 13.4+ to build and run.
 
 ## Screenshots
 
-![Simulator Screen Shot - iPhone 11 - 2022-08-17 at 01 03 43](https://user-images.githubusercontent.com/84686184/184999976-2c3898b8-0e1c-458b-b49e-4dcf59dd4108.png | width=200 height=600)
+![Simulator Screen Shot - iPhone 11 - 2022-08-17 at 01 03 43](https://user-images.githubusercontent.com/84686184/184999976-2c3898b8-0e1c-458b-b49e-4dcf59dd4108.png | width=200)
 
 ![Simulator Screen Shot - iPhone 11 - 2022-08-17 at 01 06 59](https://user-images.githubusercontent.com/84686184/185000296-096d54c4-81aa-4023-82a0-1b7e5490176b.png)
 
