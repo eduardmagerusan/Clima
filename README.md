@@ -10,7 +10,7 @@ I removed my private OpenWeather API key from the repo, if you want to get the w
 This project is written in Swift 5.0 and requires Xcode 13.4+ to build and run.
 
 ## Screenshots
-<p float="center">
+<p float="center" align="center">
   <img src="https://user-images.githubusercontent.com/84686184/184999976-2c3898b8-0e1c-458b-b49e-4dcf59dd4108.png" alt="Light apperance" width="300"/>
   <img src="https://user-images.githubusercontent.com/84686184/185000296-096d54c4-81aa-4023-82a0-1b7e5490176b.png" alt="Dark apperance" width="300"/>
 </p>
