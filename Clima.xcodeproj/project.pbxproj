@@ -16,6 +16,7 @@
 		8AA10B9C28ABC03900CDC0BD /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA10B9B28ABC03900CDC0BD /* WeatherManager.swift */; };
 		8AA10B9F28ABC07300CDC0BD /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA10B9E28ABC07300CDC0BD /* WeatherData.swift */; };
 		8AA10BA128ABC08E00CDC0BD /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA10BA028ABC08E00CDC0BD /* WeatherModel.swift */; };
+		8AA10BA328AC48B300CDC0BD /* Keys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA10BA228AC48B300CDC0BD /* Keys.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		8AA10B9B28ABC03900CDC0BD /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		8AA10B9E28ABC07300CDC0BD /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		8AA10BA028ABC08E00CDC0BD /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
+		8AA10BA228AC48B300CDC0BD /* Keys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Keys.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				8AA10B9B28ABC03900CDC0BD /* WeatherManager.swift */,
 				8AA10B9E28ABC07300CDC0BD /* WeatherData.swift */,
 				8AA10BA028ABC08E00CDC0BD /* WeatherModel.swift */,
+				8AA10BA228AC48B300CDC0BD /* Keys.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				8AA10B9F28ABC07300CDC0BD /* WeatherData.swift in Sources */,
 				8AA10B8628ABBFA700CDC0BD /* AppDelegate.swift in Sources */,
 				8AA10B9C28ABC03900CDC0BD /* WeatherManager.swift in Sources */,
+				8AA10BA328AC48B300CDC0BD /* Keys.swift in Sources */,
 				8AA10BA128ABC08E00CDC0BD /* WeatherModel.swift in Sources */,
 				8AA10B8828ABBFA700CDC0BD /* SceneDelegate.swift in Sources */,
 			);
