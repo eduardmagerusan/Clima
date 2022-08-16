@@ -14,3 +14,9 @@ This project is written in Swift 5.0 and requires Xcode 13.4+ to build and run.
   <img src="https://user-images.githubusercontent.com/84686184/184999976-2c3898b8-0e1c-458b-b49e-4dcf59dd4108.png" alt="Light apperance" width="300"/>
   <img src="https://user-images.githubusercontent.com/84686184/185000296-096d54c4-81aa-4023-82a0-1b7e5490176b.png" alt="Dark apperance" width="300"/>
 </p>
+
+## Features
+* Beautiful UI and great UX
+* Dark-mode enabled weather app
+* Check the weather for the current location based on the GPS data from the iPhone 
+* Check the weather by searching for a city manually
